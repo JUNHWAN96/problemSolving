@@ -1,0 +1,5 @@
+vm options 를 
+
+-DSVR_LOC=real -Dfile.encoding=UTF-8
+
+로 변경해서 사용 => api 프로젝트
