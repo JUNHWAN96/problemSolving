@@ -1,0 +1,6 @@
+Linux OS 확인
+
+cat /etc/os-release
+
+=> CentOs에서 작업
+
