@@ -1,0 +1,3 @@
+cat /etc/os-release
+
+리눅스 OS 확인 명령어
